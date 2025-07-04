@@ -12,6 +12,8 @@ BucketStudy is a stylish and responsive Frontend UI project that displays availa
 ✅ Bottom navbar with black background
 ✅ Smooth transitions using plain CSS
 ✅ Styled custom logo (BucketStudy with font effects)
+
+
 👩‍💻 Role
 Frontend Developer
 
