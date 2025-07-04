@@ -1,12 +1,33 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+BucketStudy – Course Listing & Registration Platform
+BucketStudy is a stylish and responsive Frontend UI project that displays available courses in card format, allows students to register via animated forms, and includes a built-in contact section. Designed with plain CSS and React, it focuses on great user experience without backend complexity.
 
-Currently, two official plugins are available:
+🚀 Features Implemented
+✅ Display list of courses using React components
+✅ View course details with React Router
+✅ Animated course registration form
+✅ Contact Us form layout
+✅ Floating contact button
+✅ Bottom navbar with black background
+✅ Smooth transitions using plain CSS
+✅ Styled custom logo (BucketStudy with font effects)
+👩‍💻 Role
+Frontend Developer
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+1.React.js (Vite)
+2.React Router DOM
+3.HTML5 & CSS3 (no UI libraries like Bootstrap or Tailwind)
+4.JavaScript (ES6+)
+5.CSS animations and bootstrap for responsiveness
 
-## Expanding the ESLint configuration
+⚙️ Setup Instructions
+Follow these steps to run the project locally: install dependencies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1.npm install
+2.npm run dev
+3.open in your browser https://localhost:5173
+
+Clone the Repository
+https://github.com/AhireShubhangi/coursereg.gitout the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
